@@ -1,5 +1,5 @@
 // Create web server
-var express = require('express');
+import express from 'express';
 var app = express();
 
 // Create a route for the root path
